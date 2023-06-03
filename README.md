@@ -1,13 +1,7 @@
 <h1 align="center">Namaste 🙏, I'm Priyanshu Tiwari</h1>
-
-###
-
-<br clear="both">
-
 <h3 align="center">A passionate web developer from Bharat</h3>
 
 ###
-
 <h6 align="center">🌱 I’m currently learning React JS<br>📧 You can reach to me: impriyanshu2901@gmail.com</h6>
 
 ###
@@ -20,6 +14,7 @@
 </div>
 
 ###
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
@@ -59,9 +54,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=iampriyanshu29.iampriyanshu29&left_color=lightskyblue&right_color=darkslateblue&left_text=Profile View"  />
-</div>
+<br clear="both">
 
 ###
 
@@ -77,6 +70,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/iampriyanshu29/iampriyanshu29/output/snake.svg" alt="Snake animation" />
+
 
 ###
