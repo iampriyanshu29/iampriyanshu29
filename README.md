@@ -1,13 +1,9 @@
 <h1 align="center" style="font-weight: bolder; font-family: Frank Ruhl Libre" >Namaste 🙏, I'm Priyanshu Tiwari</h1>
 <h2 align="center"   style="font-weight: lighter; font-family: Frank Ruhl Libre">A passionate web developer from Bharat</h2>
 
-<div align="center">
-    <h3 >About Me:</h3>
-
-    <p>🌱 I’m currently learning **React JS**</p>
-    <p>📧 You can reach to me: **impriyanshu2901@gmail.com**</p>
-</div>
-
+<h3 align="center" font-family: 'Frank Ruhl Libre' >About me:</h3>
+<p align="center">  🌱 I’m currently learning React JS </p>
+<p align="center">  📧 You can reach to me: impriyanshu2901@gmail.com </p>
 
 <h3 align="center" font-family: 'Frank Ruhl Libre' >Connect with me:</h3>
 <p align="center">
