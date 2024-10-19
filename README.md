@@ -40,7 +40,7 @@ I am always open to networking and collaboration. Feel free to reach out to me v
 - **LinkedIn**: [Connect withh Me](https://www.linkedin.com/in/iampriyanshu29/)
 - **Portfolio**: [Priyanshu Tiwari](https://www.priyanshutiwari.me/)
 - **Email**: [Email me](mailto:iampriyanshu2901@hotmail.com)
-- - **Github**:[Primary Account ](https://github.com/impriyanshu29)
+- **Github**:[Primary Account ](https://github.com/impriyanshu29)
 
 ---
 
